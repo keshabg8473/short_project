@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.image img{
+    width: auto;
+    height: 300px;
+}
+body{
+    background: #10eb9e;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.contant{
+    width: 563px;
+    margin: 0px auto;
+    padding: 20px;
+}
+.tittle h1{
+  padding: 0px 117px;
+  margin: 12px;
+  text-shadow: 3px 0px 4px rgb(248, 248, 248) ;
+}
+.caption p{
+    padding: 0px 22px;
+    margin: 9px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+}
+#attribute_data
+{
+    background: #08b075;
+    width: 500px;
+    height: auto;
+    margin: 80px auto;
+    box-shadow: 49px 49px 39px -32px rgb(216, 214, 141);
+
+}
+.about_kalam h1{
+    text-align: center;
+   padding-top: 24px;
+   font-weight: bold;
+   font-size: 44px;
+   color: white;
+   text-shadow: 5px 4px 8px black;
+}
+#attribute_data p{
+  padding:22px 40px;
+}
+.footer{
+    width: 414px;
+    margin-top: -43px;
+    padding-bottom: 99px;
+}
+
+
